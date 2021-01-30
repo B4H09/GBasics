@@ -11,7 +11,7 @@ BY: Glitch
 =======================================
 Telegram : @GlitchT
 =======================================
-Youtube : Glitch - جلتش
+Gmail : glitcht09
 =======================================
 Choose A Number..
 _______________________________________________
@@ -24,7 +24,7 @@ loop = True
 
 while loop:
     menu()
-    what = input("Choose:")
+    what = input("Choose: ")
     if what == "1":
         print("===================================")
         print("======>>")
